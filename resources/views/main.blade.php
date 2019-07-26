@@ -18,7 +18,7 @@
     </header>
 
     <!-- About Section -->
-    <section class="page-section " id="UeberMich" >
+    <section class="page-section pt-5 pb-5" id="UeberMich" >
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-lg-8 text-center">
