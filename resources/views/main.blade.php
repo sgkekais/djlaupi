@@ -10,8 +10,8 @@
                     <hr class="divider my-4">
                 </div>
                 <div class="col-lg-8 align-self-baseline">
-                    <p class="text-white-75 font-weight-light mb-5">Bla bla bla Untertitel zu Headliner</p>
-                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#UeberUns">Neugierig?</a>
+                    <p class="text-white-75 font-weight-light mb-5">&nbsp;</p>
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#UeberMich">Neugierig?</a>
                 </div>
             </div>
         </div>
