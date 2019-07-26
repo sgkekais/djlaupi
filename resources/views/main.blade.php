@@ -102,7 +102,7 @@
             <div class="row no-gutters">
                 @foreach($gallery_items as $gallery_item)
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="{{ $gallery_item->imgpath) }}">
+                        <a class="portfolio-box" href="{{ asset('storage/'.$gallery_item->imgpath) }}">
                             <img class="img-fluid" src="{{ asset('storage/'.$gallery_item->imgpath) }}" alt="{{ $gallery_item->title }}">
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">
