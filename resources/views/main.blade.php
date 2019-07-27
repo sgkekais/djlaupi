@@ -80,7 +80,7 @@
                     <div class="m-4">
                         <i class="fas fa-4x fa-compact-disc text-primary mb-4"></i>
                         <h3 class="h4 mb-2">Musik <i class="fas fa-check" style="color: green"></i></h3>
-                        <p class="text-muted mb-0">Individuell auf Dich und deine Gäste angepasst! Mein Repertoire lässt keine Wünsche offen und umfasst Hits der 60er und 90er, House, Rock & Schlagerm, Party- und Karnevalshits, Dance Classics, NDW, Ballerman-Hits und Deutsche Musik!</p>
+                        <p class="text-muted mb-0">Individuell auf Dich und deine Gäste angepasst! Mein Repertoire lässt keine Wünsche offen und umfasst Hits der 60er und 90er, House, Rock & Schlager, Party- und Karnevalshits, Dance Classics, NDW, Ballerman-Hits und Deutsche Musik!</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center bg-white rounded mb-2">
