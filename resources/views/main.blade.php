@@ -155,7 +155,7 @@
                 <div class="col-lg-8 text-center">
                     <h2 class="mt-0 font-weight-bolder">Lass von Dir hören!</h2>
                     <hr class="divider my-4">
-                    <p class="text-muted mb-5">Ich habe dein Interesse gewecket und Du möchtest mir eine Anfrage stellen? Melde Dich für ein persönliches Angebot.</p>
+                    <p class="text-muted mb-5">Ich habe dein Interesse geweckt und Du möchtest mir eine Anfrage stellen? Melde Dich für ein persönliches Angebot.</p>
                 </div>
             </div>
             <div class="row">
