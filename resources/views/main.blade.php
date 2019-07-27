@@ -165,7 +165,7 @@
                 </div>
                 <div class="col-lg-3 text-center mb-5 mb-lg-0">
                     <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
-                    <a class="d-block" href="mailto:info@djlaupi.de">info@djlaupi.de</a>
+                    <a class="d-block" href="mailto:djlaupi@gmail.com">djlaupi@gmail.com</a>
                 </div>
                 <div class="col-lg-3 text-center mb-5 mb-lg-0">
                     <a href="https://www.facebook.com/djlaupi/" target="_blank" title="DJ Laupi auf Facebook">
